@@ -3,7 +3,6 @@
 ![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
 
 ### Step 1 - Install the requirements
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -65,7 +64,6 @@ To push your changes forcefully.
 git push origin main -f
 ```
 
-
 To pull  changes from github repo
 ```
 git pull origin main
@@ -73,10 +71,10 @@ git pull origin main
 Note: origin--> contains url to your github repo
 main--> is your branch name
 
-
 .env file has
 ```
 MONGO_DB_URL="mongodb://localhost:27017"
 AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
 AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
 ```
+
