@@ -77,4 +77,3 @@ MONGO_DB_URL="mongodb://localhost:27017"
 AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
 AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
 ```
-
